@@ -1,5 +1,5 @@
 
-#my database exercise
+# my database exercise
 
 Complete in 1 day and most detailed for database query language
 
