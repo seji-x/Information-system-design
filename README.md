@@ -20,9 +20,14 @@ Complete in 1 day and most detailed for database query language
 
 ### Relationship
 - The primary and secondary keys are noted in the source code
+
+### references
+
+- https://www.w3schools.com/sql/default.asp
 ### DEMO ( QuanLyLopHoc )
 
 <img src="https://github.com/Dryuuu/Project-management-query/assets/118073917/b9f90af8-1d35-4b8d-83eb-4a3180add540" alt="" width="600" height="400">
+
 
 
 ## Thank!!!
