@@ -14,7 +14,7 @@ Complete in 1 day and most detailed for database query language
 - DELETE: Used to delete data from the table
 
 ### DEMO 
-<img src="https://github.com/Dryuuu/Project-management-query/assets/118073917/b9f90af8-1d35-4b8d-83eb-4a3180add540" alt="" width="300" height="200">
+<img src="https://github.com/Dryuuu/Project-management-query/assets/118073917/b9f90af8-1d35-4b8d-83eb-4a3180add540" alt="" width="600" height="400">
 
 
 
