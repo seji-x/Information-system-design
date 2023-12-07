@@ -16,8 +16,7 @@ Complete in 1 day and most detailed for database query language
 ### DEMO 
 ![QuanLyLopHoc](![demoquanlylop](https://github.com/Dryuuu/Project-management-query/assets/118073917/b9f90af8-1d35-4b8d-83eb-4a3180add540))
 
-<img src="![demoquanlylop](https://github.com/Dryuuu/Project-management-query/assets/118073917/7619d157-9a6a-4ce4-9af5-c3b3cec06ee7)
-" alt="Demo" width="300" height="200">
+
 
 
 
