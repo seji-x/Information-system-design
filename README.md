@@ -14,8 +14,8 @@ Complete in 1 day and most detailed for database query language
 - DELETE: Used to delete data from the table
 - CREATE: Used to create a new object in the database such as a table, index, or view.
 - ALTER: Used to change the structure of a table (add columns, delete columns, rename columns, etc.)
-- DROP: Được sử dụng để xóa một đối tượng khỏi cơ sở dữ liệu (bảng, chỉ mục, chế độ xem, v.v.)
-- GRANT và REVOKE: Được sử dụng để cấp quyền hoặc thu hồi quyền từ người dùng hoặc vai trò.
+- DROP: Used to delete an object from the database (table, index, view, etc.)
+- GRANT and REVOKE: Used to grant or revoke permissions from a user or role.
 - USE: Used to select the database on which the query will execute
 
 ### DEMO ( QuanLyLopHoc )
