@@ -1,7 +1,7 @@
 
-# my database exercise
+## HERE ARE 2 INFORMATION PROJECTS THAT I DESIGNED
 
 Complete in 1 day and most detailed for database query language
 
-p/s 
-This is a virtual project on information management
+'Use SQL server environment: https://www.microsoft.com/en-us/sql-server/sql-server-downloads'
+
