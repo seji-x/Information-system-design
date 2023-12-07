@@ -6,7 +6,7 @@ Complete in 1 day and most detailed for database query language
 - Use SQL server environment: https://www.microsoft.com/en-us/sql-server/sql-server-downloads
 
 
- ### Retrieval types included in the project:
+ ## Retrieval types included in the project:
  
 - SELECT: Used to retrieve data from one or more tables in the database 
 - INSERT: Used to add new data to the table
@@ -18,10 +18,10 @@ Complete in 1 day and most detailed for database query language
 - GRANT and REVOKE: Used to grant or revoke permissions from a user or role.
 - USE: Used to select the database on which the query will execute
 
-### Relationship
+## Relationship
 - The primary and secondary keys are noted in the source code
 
-### references
+## references
 
 - https://www.w3schools.com/sql/default.asp
 ### DEMO ( QuanLyLopHoc )
@@ -30,7 +30,7 @@ Complete in 1 day and most detailed for database query language
 
 
 
-## Thank!!!
+Thank!!!
 
 
 
