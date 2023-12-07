@@ -19,7 +19,7 @@ Complete in 1 day and most detailed for database query language
 - USE: Used to select the database on which the query will execute
 
 ## Relationship
-- The primary and secondary keys are noted in the source code
+- *The primary and secondary keys are noted in the source code*
 
 ## references
 
