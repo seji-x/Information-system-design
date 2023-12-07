@@ -14,8 +14,7 @@ Complete in 1 day and most detailed for database query language
 - DELETE: Used to delete data from the table
 
 ### DEMO 
-![demoquanlylop](https://github.com/Dryuuu/Project-management-query/assets/118073917/b9f90af8-1d35-4b8d-83eb-4a3180add540))
-
+![demoquanlylop]<img src="https://github.com/Dryuuu/Project-management-query/assets/118073917/b9f90af8-1d35-4b8d-83eb-4a3180add540" alt="Demo" width="300" height="200">)
 
 
 
