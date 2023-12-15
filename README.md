@@ -24,11 +24,42 @@ Complete in 1 day and most detailed for database query language
 ## REFERENCES
 - https://www.w3schools.com/sql/default.asp
 ## SYSTEM ANALYSIS AND DESIGN
-### Use Case Specification
-- Identify Actors
+## Use Case Specification
+### Identify Actors
 > Student (user)
-> Administrator (admin)
-> Teacher (user)
+  Administrator (admin)
+  Teacher (user)
+### Identify Use Cases
+ADMIN
+- Login Use Case
+ - Purpose:
+  > Allows the admin to log in to the system to access management functionalities.
+ - Main Steps:
+   1 Enter the username and password.
+   2 Click the "Login" button.
+   3 The system verifies the login information and grants access if correct.
+- Logout Use Case
+
+Purpose:
+Allows the admin to log out of the system to ensure information security.
+Main Steps:
+Admin selects the "Logout" option from the interface.
+The system confirms the logout and returns to the login page.
+Manage Student Accounts Use Case
+
+Manage Teacher Accounts Use Case
+
+Manage Admin Accounts Use Case
+
+Manage Courses Use Case
+
+Manage Classes Use Case
+
+Manage Grades Use Case
+
+Manage Students Use Case
+
+Manage Teachers Use Case
 ### DEMO ( QuanLyLopHoc )
 
 <img src="https://github.com/Dryuuu/Project-management-query/assets/118073917/b9f90af8-1d35-4b8d-83eb-4a3180add540" alt="" width="600" height="400">
