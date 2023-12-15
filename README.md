@@ -35,9 +35,10 @@ ADMIN
  - Purpose:
   > Allows the admin to log in to the system to access management functionalities.
  - Main Steps:
-   1 Enter the username and password.
-   2 Click the "Login" button.
-   3 The system verifies the login information and grants access if correct.
+
+   1  Enter the username and password.
+   2  Click the "Login" button.
+   3  The system verifies the login information and grants access if correct.
 - Logout Use Case
 
 Purpose:
